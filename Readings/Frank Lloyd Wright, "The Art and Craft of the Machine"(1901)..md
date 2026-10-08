@@ -1,0 +1,9 @@
+https://franklloydwright.org/the-art-craft-of-the-machine/
+- Wright uses architecture as an example of old arts, and printing as an example of machine-sapped art.
+	- "For the purpose of suggesting hastily and therefore crudely wherein the machine has sapped the vitality of this art, let us assume Architecture in the old sense as a fitting representative of Traditional-art, and Printing as a fitting representation of the Machine."
+- Frank Lloyd Wright describes printing as an easier medium of expression than architecture, costing less in human effort.
+- Wright does not imply that this devalues the work; instead, he explains that machinery makes art more accessible. 
+	- "The machine, by its wonderful cutting, shaping, smoothing, and repetitive capacity, has made it possible to so use it without waste that the poor as well as the rich may enjoy to-day beautiful surface treatments of clean, strong forms …"
+- Wright does make a distinction between the artist and tools. But overall looks positively upon machines decreasing labor.
+	- "I will venture to say, from personal observation and some experience, that not one artist in one hundred has taken pains to thus educate himself. I will go further and say what I believe to be true, that not one educational institution in America has as yet attempted to forge the connecting link between Science and Art by training the artist to his actual tools, or, by a process of nature-study that develops in him the power of independent thought, fitting him to use them properly."
+	- It should be noted that Wright still advocates for humanness or independent thought captured by [Ruskin in The Nature of Gothic](obsidian://open?vault=research&file=Readings%2FThe%20Nature%20of%20Gothic%2C%20A%20Chapter%20of%20the%20Stones%20of%20Venice).
