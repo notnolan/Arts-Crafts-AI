@@ -21,11 +21,11 @@ I'm interested in learning more about the arts and crafts movement. Particularly
 - **C. R. Ashbee, _Should We Stop Teaching Art?_** (1911). It deals with art education and the split between design and execution.
 - _**Arts and Crafts Essays**_ (1893, by members of the Arts and Crafts Exhibition Society, preface by Morris). Contributors address craft categories and the relationship between designer and maker.
 - **Walter Crane, _The Claims of Decorative Art_** (1892) and _**William Morris to Whistler**_ (1911). Crane discusses design vs. execution within the movement's institutions.
-- **Edward Johnston, _Writing & Illuminating, & Lettering_** (1906). A craft-instruction text that includes a theory of method, and a useful contrast case for H2.
+- **Edward Johnston, _Writing & Illuminating, & Lettering_** (1906).
 
 ### Secondary scholarship
 
-- **Peter Betjemann, _Talking Shop: The Language of Craft in an Age of Consumption_** (2011). It treats the movement's craft vocabulary directly, which is useful for tracking how terms were used.
+- **Peter Betjemann, _Talking Shop: The Language of Craft in an Age of Consumption_** (2011). 
 - **Eileen Boris, _Art and Labor: Ruskin, Morris, and the Craftsman Ideal in America_** (1986).
 - **Alan Crawford, _C. R. Ashbee: Architect, Designer & Romantic Socialist_** (1985). The best source on the Guild of Handicraft's training and pedagogy.
 - **Elizabeth Cumming and Wendy Kaplan, _The Arts and Crafts Movement_** (1991), **Rosalind Blakesley, _The Arts and Crafts Movement_** (2006), and **Gillian Naylor, _The Arts and Crafts Movement_** (1971). General surveys with bibliographies to mine.
